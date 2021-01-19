@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nikla\\source\\repos\\PRRPRR02-TE18D\\SOLID-Labb\\SOLID-Labb\\SOLID-Labb\\SOLID-Labb.csproj": {}
+    "D:\\Skrivbord\\Mapp\\GitHub\\PRRPRR02-TE18D\\SOLID-Labb\\SOLID-Labb\\SOLID-Labb\\SOLID-Labb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nikla\\source\\repos\\PRRPRR02-TE18D\\SOLID-Labb\\SOLID-Labb\\SOLID-Labb\\SOLID-Labb.csproj": {
+    "D:\\Skrivbord\\Mapp\\GitHub\\PRRPRR02-TE18D\\SOLID-Labb\\SOLID-Labb\\SOLID-Labb\\SOLID-Labb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nikla\\source\\repos\\PRRPRR02-TE18D\\SOLID-Labb\\SOLID-Labb\\SOLID-Labb\\SOLID-Labb.csproj",
+        "projectUniqueName": "D:\\Skrivbord\\Mapp\\GitHub\\PRRPRR02-TE18D\\SOLID-Labb\\SOLID-Labb\\SOLID-Labb\\SOLID-Labb.csproj",
         "projectName": "SOLID-Labb",
-        "projectPath": "C:\\Users\\nikla\\source\\repos\\PRRPRR02-TE18D\\SOLID-Labb\\SOLID-Labb\\SOLID-Labb\\SOLID-Labb.csproj",
-        "packagesPath": "C:\\Users\\nikla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nikla\\source\\repos\\PRRPRR02-TE18D\\SOLID-Labb\\SOLID-Labb\\SOLID-Labb\\obj\\",
+        "projectPath": "D:\\Skrivbord\\Mapp\\GitHub\\PRRPRR02-TE18D\\SOLID-Labb\\SOLID-Labb\\SOLID-Labb\\SOLID-Labb.csproj",
+        "packagesPath": "C:\\Users\\Kingen34\\.nuget\\packages\\",
+        "outputPath": "D:\\Skrivbord\\Mapp\\GitHub\\PRRPRR02-TE18D\\SOLID-Labb\\SOLID-Labb\\SOLID-Labb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nikla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kingen34\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +26,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -38,7 +37,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -54,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
